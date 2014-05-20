@@ -12,7 +12,7 @@ GPlus.install = function () {
     window.plugins = {};
   }
 
-  window.plugins.pocketsave = new GPlus();
+  window.plugins.gplus = new GPlus();
   return window.plugins.gplus;
 };
 
