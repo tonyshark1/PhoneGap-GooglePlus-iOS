@@ -1,7 +1,7 @@
 GooglePlus-PhoneGap-iOS
 =======================
 
-Phonegap plugin to allow users to share with Google+
+Phonegap plugin to allow users to share with Google+ (SDK v1.7.1)
 
 ### Installation
 
